@@ -2,3 +2,8 @@ p {
   font-family: ariel;
   color: blue
 }
+
+header {
+  font-family: bold;
+  color: pink;
+}
